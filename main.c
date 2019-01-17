@@ -41,6 +41,14 @@ int main()
         }
         if (code == 3)
         {
+            printf("xianshisuoyouminganzifu\n");
+            for(int i=0;i<index;i++){
+                printf("%c\n",arr[i]);
+            }
+            printf("dianjihuichejixu\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
         }
         if (code == 4)
         {
